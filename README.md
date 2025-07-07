@@ -9,22 +9,22 @@ A web-based quiz application built using Flask, allowing users to take quizzes, 
 - Store quiz questions using Python dictionaries
 - Easy to extend with user login or quiz categories
   
-Tech Stack
+# Tech Stack
 
 - **Backend:** Python, Flask
 - **Frontend:** HTML, CSS, Bootstrap
 - **Data Format:** Python Dict
 
-  Demo Video
+#  Demo Video
 [![Watch the demo](https://img.youtube.com/vi/0IomIXpk_T8/0.jpg)](https://www.youtube.com/watch?v=0IomIXpk_T8)
 
 
-  Prerequisites
+ # Prerequisites
 
 - Python 3.x
 - Flask (install with `pip install flask`)
 
- Author
+# Author
  
 Siddhi Shendurkar
 
