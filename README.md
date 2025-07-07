@@ -15,13 +15,19 @@ Tech Stack
 - **Frontend:** HTML, CSS, Bootstrap
 - **Data Format:** Python Dict
 
+  Demo Video
+[![Watch the demo](https://img.youtube.com/vi/0IomIXpk_T8/0.jpg)](https://www.youtube.com/watch?v=0IomIXpk_T8)
+
+
   Prerequisites
 
 - Python 3.x
 - Flask (install with `pip install flask`)
 
  Author
+ 
 Siddhi Shendurkar
+
 GitHub: @Siddhi2006
 
 
